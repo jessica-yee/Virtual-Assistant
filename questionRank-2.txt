@@ -1,0 +1,97 @@
+0 Where is the computer science department?
+0 What professors teach computer science?
+0 What is a prerequisite?
+0 What prerequisites do I need to take computer science?
+0 How many computer science courses are offered at PCC?0 Who is the best professor?
+0 Where is the office of the computer science division?
+0 What are the hours of the computer science office?
+0 Where can I get computer science tutoring?
+0 What is the phone number of the computer science office?
+0 What is the room number of the computer science office?
+0 How many computer science classes are offered?
+0 What is the average GPA of a computer science transfer?
+0 What are my career options as a computer science major?
+0 What are the maximum units I can take after I transfer to a four year university
+0 How many units do I need to be a full time student?
+0 How many W's am I allowed to have on my transcript?
+0 What is She Codes
+0 What clubs are there for computer science?
+0 How do I join a club for computer science?
+0 Is computer science hard?
+0 Who can I email about computer science?
+0 Can I get credit for Advanced Placement (AP) scores?
+0 Can I skip any computer science classes?
+0 What classes do I need for computer science?
+0 What is Computer Information Systems (CIS)?
+0 Do I need to take physics for computer science?
+0 What science classes do I need to take for computer science?
+0 What math level do I have to be at to be in computer science?
+0 What if I do not have a computer or laptop?
+0 What are the most popular computer science languages?
+0 Can I get honors credit for computer science?
+0 Is there a computer lab at Pasadena City college?
+0 What is the average salary of a computer science major?
+0 What universities have good computer science programs?
+0 How much math do computer scientists use?
+0 What is the first computer science class?
+0 What if I do not know any computer science?
+0 Is CS 001 important?
+0 Is CS 002 important?
+0 What class do I need to take for my major?
+0 Is my current schedule allowing me to stay on track?
+0 Are my grades good enough to transfer?
+0 What classes do I need to transfer?
+0 Do my AP scores give me credit?
+0 How do I get financial aid?
+0 How do I get scholarships?
+0 What are my career options for computer science major?
+0 When should I apply to college
+0 Are there any internship opportunities?
+0 What are admissions looking for in my personal statement?
+0 When should I visit my school I may transfer to?
+0 Should I apply for early decision?
+0 How can I prepare for an interview?
+0 Should I get recommendation letters?
+0 How can I find the right school for me?
+0 Can I change my major if I don’t like my current major?
+0 Can I change my major after transferring to my chosen 4-year university?
+0 Can I take supplemental course at a JC while attending my 4-year college?
+0 What is the max amount units I can take at my 4-year university?
+0 What is the max amount units I can take at PCC?
+0 Does my GPA stay the same once I transfer?
+0 Can I transfer without IGETC certification?
+0 Do I need my high school transcripts when transferring?
+0 Are there programs on campus for transfer students?
+0 Are there programs for financially challenged students?
+0 Can I transfer to universities outside of California?
+0 What happens when I can’t pay for a semester?
+0 Can I transfer after 3 (or more) years at a JC?
+0 Can I choose roommate at my transfer school?
+0 How many units do I need to qualify as a full-time student?
+0 How can I remove a W from my transcript?
+0 Does my high school GPA affect my transfer possibility?
+0 Do I have to take placement tests when I transfer?
+0 Can I stay as long as I want after transferring to my 4-year university?
+0 How do I find out what classes I need to take to transfer?
+0 Can I transfer after my first year at PCC?
+0 How many W’s am I allowed to have on my transcript?
+0 Are there scholarships for students that work?
+0 How many units do I need to transfer?
+0 Do I have to finish my Associates before transferring?
+0 What expenses do I need to pay for after I get accepted?
+0 How can I meet up with other transfer students?
+0 Can I take classes during the summer before my transfer date?
+0 Is my tuition higher than other students since I am a transfer?
+0 Can I get credit for classes that I get lower than a C in?
+0 Can I transfer during the Spring as opposed to the Fall?
+0 What should I be working on with a counselor at my current school?
+0 Does being a transfer impact my access to financial aid scholarships?
+0 Are there courses that transfer student need to take while at their university?
+0 Does PCC have programs for disabled student?
+0 Does being an international student affect my transfer rate?
+0 Does being a non-traditional student affect my transfer rate?
+0 Does being a felon affect my transfer rate?
+0 Hello
+0 How are you?
+0 Good
+0 Hi

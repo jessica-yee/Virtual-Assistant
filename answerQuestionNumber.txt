@@ -1,0 +1,97 @@
+0 The Computer Science Department is located in room R-322.
+0 Professors: Asraf, Barkeshli, Chang, Donigian, Jupe, Kutukian, Leon, Noguchi, Ravinutala, Segui, and Wilkinson.
+0 A prerequisite is a level of preparation before you can take a course.
+0 If you are a non-STEM student, you have no prerequisites, and start at CS 001. If you are a STEM student, you must take CS 002.
+0 There are 16 computer science (not CIS) classes offered at PCC.
+0 The one who lets you copy.
+0 The computer science division is located in room 322 of the R-building.
+0 The computer science office is open from Mondays through Thursdays, 8 am - 7 pm, and Fridays 8 am - 4:30 pm.
+0 You can receive computer science tutoring in the Math Success Center in R-406.
+0 Sure, it is (626) 585-7331.
+0 The room number is R-322.
+0 The average GPA depends on the school you are transferring to. If you are looking at UC's, they publish their  admit profiles. Otherwise, please speak to a counselor.
+0 Software Developer, Database Administrator, Computer Hardware Engineer, Computer Systems Analyst, Web Developer, Information Security Analyst, and Computer Programmer are just a few roles you may pursue with a CS Degree.
+0 There is no maximum units after you transfer to a four-year, but UC's only allow you to take 70 units with you to the four-year.
+0 You need 12 units to be considered a full-time student.
+0 That varies by school. Usually, UC's find two to be acceptable.
+0 She.Codes is a club at Pasadena City College that encourages women to join computer science and promotes women in the technology field.
+0 The clubs available are She.Codes and the Computer Science Club.
+0 Visit a club booth during club week in the quad.
+0 Computer science is widely considered difficult
+0 You can email Castar Bird at castarbird@pasadena.edu.
+0 Passing the Computer Science A Exam allows you credit for CS 001 and passing the Computer Science AB Exam allows you credit for CS 002. 
+0 If you completed computer science at another college or passed the AP Exams with a score of 3, 4, or 5.
+0 That depends on your major and your goals. Refer to Assist.org if you plan to transder.
+0 Computer Information Systems (CIS) focuses on the application of computers in a business environment with an emphasis on the analysis and design of business information systems. 
+0 That depends on the university you plan to transfer to.
+0 That depends on the university, but you may need to take physics courses.
+0 You do not need mathematics to begin the computer science course, but most four year universities require Math 55 prior to the transfer. 
+0 You can visit the Math Success Center or Library outside of class. In class, there will be computer provided.
+0 The most popular languages are Python, C++, and Java.
+0 During some semesters, computer science honors option is available.
+0 Yes! It is in the library.
+0 The average starting salary of a computer science career for students was $66,005 in 2018.
+0 The universities with the top-ranked computer science program are Carnegie Melon, Massachusetts Institute of Technology, Stanford, University of California, Berkeley, University of Illinois, and Cornell.
+0 Computer science uses mainly discrete mathematics, but also deals with Algebra, Calculus, and Linear Algebra.
+0 If you are a non-STEM major, the first class is CS 001. If you are a STEM major, the first class is CS 002. 
+0 CS 001 and CS 002 is an introductory course where students do not need to know computer science. It is recommended you take one of these courses first.
+0 For non-STEM Majors, yes. It builds a foundation.
+0 Yes, it builds a foundation.
+0 If you are planning on transferring to a UC, check assist.org. Otherwise, please consult a counselor.
+0 Please consult a counselor for specific questions.
+0 Please consult a counselor for specific questions.
+0 Please consult a counselor for specific questions.
+0 It depends on your score. If you receive a 3, 4, or 5 on Computer Science A, you may get credit for CS001. If you receive a 3, 4, or 5 on Computer Science AB, you may get credit for CS002.
+0 Please visit the Financial Aid Office in the L-Building.
+0 Please visit the Financial Aid Office in the L-Building for scholarship opportunities.
+0 Software Developer, Database Administrator, Computer Hardware Engineer, Computer Systems Analyst, Web Developer, Information Security Analyst, and Computer Programmer are just a few roles you may pursue with a CS Degree.
+0 Please consult a counselor for specific questions.
+0 Yes! There are many advertised online or posted around school.
+0 They are looking for you to show what you do outside of school that makes you who you are. For more individual help, visit a counselor in the L-Building.
+0 Any time!
+0 Go for it!
+0 Many job interview questions have basic questions that you can think of in advance. Think about why you want the career and what you can bring to the table.
+0 Depends on the university/career you are applying to, as not every institution accepts them.
+0 Visit the L-Building, a college fair, or do some research online. Once you have an intuition, visit the schools. 
+0 If you do not like your major, it is not beneficial to stay in it. Please consult a counselor for specific questions.
+0 Most 4-year universities would not let you because of the classes you would be missing for another major. Please consult a counselor for specific questions.
+0 Absolutely! It is much cheaper to take an a junior college.
+0 You may take up to 100 units.
+0 In the fall and spring semesters, the max is 19.3 and 23 unit hours with good-standing grades. In the winter and summer, the max is 8.3 and 11 with good-standing grades. Visit the Admissions and Records Office in the L-Building. 
+0 Your GPA should reset.
+0 It depends on your major. Please consult a counselor for specific questions.
+0 No, you do not.
+0 Yes, PCC has many programs aimed at getting students to a four-year university, some are Pathways, MESA, and Honors Program.
+0 Yes, please visit the Financial Aid Office in the L-Building.
+0 Yes! It might be slightly more difficult than a university of the same caliber in California, but you can do it!
+0 Your balance for the term carries over, and you are reminded to pay. Visit the Financial Aid Office for further action.
+0 Yes! But you can only take 100 units max.
+0 It depends on the school, but for the most part, yes.
+0 You need 12 units to qualify as a full-time student.
+0 You cannot.
+0 No, it does not! Universities only look at your college transcript.
+0 Generally, no, but it may vary with university. Please consult a counselor.
+0 You can, but that's a lot of money. Financial Aid runs out.
+0 You can visit the website Assist.org if you plan to transfer to a UC, or visit a university's website, or visit the counseling office in L-building.
+0 If you have met all of the major requirements and apply in the fall that you begin PCC, yes.
+0 You can have many, but universities will frown upon it when you apply for transfer, and you should try to have none. The amount negligible to universities depends on the university. Please consult a counselor for more specific questions.
+0 Yes! Many. Consult the Financial Aid Office.
+0 A minimum of 60 units is needed to transfer to a UC.
+0 No, you do not!
+0 You need to pay the same as you would as any student attending: tuition and (maybe) housing.
+0 Programs at a four-year vary by university. There are transfer programs at PCC such as Pathways that might connect you to other transfer students.
+0 Yes but they would not fulfill your major requirement classes from when you applied in the previous fall.
+0 No.
+0 No.
+0 It depends on the university, but most of the UC schools do not have that option. Other schools might. Please consult a counselor for specific questions.
+0 You should be working on a plan for a degree or transferring by seeing what classes you need to take and when.
+0 No, it does not.
+0 If they did not finish their general education requirements or a major preparation class, the university might have them take it at their university.
+0 Yes, please visit the Disabled Students Program and Services (DSP&S) office in D-209.
+0 Please consult a counselor for specific questions.
+0 It depends on the university. Please consult a counselor for specific questions.
+0 You will have to report it in most applications to college. I cannot be sure whether admissions officers weight it very heavily.
+0 Hi
+0 I am good, and yourself?
+0 That's great!
+0 Hello
